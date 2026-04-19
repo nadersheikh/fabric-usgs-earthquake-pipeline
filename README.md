@@ -9,7 +9,9 @@ End-to-end data engineering pipeline built using Microsoft Fabric, implementing 
 USGS API → Bronze (Raw JSON) → Silver (Structured Delta Table) → Gold (Aggregated Data) → Reporting
 
 ---
+## 📊 Architecture Diagram
 
+![Architecture](screenshots/architecture.png)
 ## 🧱 Pipeline Design
 
 ### Bronze Layer
